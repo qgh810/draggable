@@ -1,4 +1,7 @@
-## draggable.js
+## draggable.js  
+### [已迁移到 dnd.js](https://github.com/qgh810/dnd)
+### [https://github.com/qgh810/dnd](https://github.com/qgh810/dnd)
+### 当前项目不在维护 请使用dnd.js
 
 ##### 拖放库 drag and drop
 
